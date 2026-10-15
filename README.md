@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hielo24k/hielo24k/main/dino.gif" width="100%" alt="Chrome Dino Game" />
+</p>
+
 <!-- 💬 GREETING TITLE (Typing SVG animado) -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=34&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=%E2%9A%A1+HI%2C+I'M+HIELO24K;%F0%9F%A4%96+DISCORD+BOT+DEVELOPER;%F0%9F%A7%A0+AI+%26+PYTHON+ENTHUSIAST;WELCOME+TO+MY+PROFILE" alt="Typing SVG" />

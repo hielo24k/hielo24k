@@ -67,21 +67,21 @@
 
 <!-- 📊 GITHUB STATS & STREAK (Matrix Cyber Theme) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hielo24k&show_icons=true&theme=matrix&border_color=00FF66&hide_border=false" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hielo24k&theme=matrix&border=00FF66&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hielo24k&show_icons=true&theme=matrix&border_color=00FF66" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=hielo24k&theme=matrix&border=00FF66&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <!-- 📙 TOP LANGUAGES & PINNED REPO -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hielo24k&theme=matrix&layout=compact&border_color=00FF66&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hielo24k&theme=matrix&layout=compact&border_color=00FF66&langs_count=6" alt="Top Languages" />
   <a href="https://github.com/hielo24k/teemo-bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hielo24k&repo=teemo-bot&theme=matrix&border_color=00FF66" alt="Teemo Bot" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=hielo24k&repo=teemo-bot&theme=matrix&border_color=00FF66" alt="Teemo Bot" />
   </a>
 </p>
 
 <!-- 🏆 GITHUB TROPHIES -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hielo24k&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,Repositories" alt="Trophies" />
+  <img src="https://github-profile-trophy-trinibs-projects.vercel.app/?username=hielo24k&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,Repositories" alt="Trophies" />
 </div>
 
 <!-- 📏 NEON DIVIDER LINE -->

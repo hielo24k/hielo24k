@@ -65,19 +65,41 @@
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
 </p>
 
-<!-- 📊 GITHUB STATS & STREAK (Matrix Cyber Theme) -->
+<!-- 📊 GITHUB STATS & STREAK (Fondo oscuro y verde neón sincronizados) -->
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hielo24k&show_icons=true&theme=matrix&border_color=00FF66" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hielo24k&show_icons=true&bg_color=0d1117&title_color=00FF66&text_color=7ee787&icon_color=00FF66&border_color=00FF66" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=hielo24k&theme=matrix&border=00FF66&hide_border=false" alt="GitHub Streak" />
 </p>
 
-<!-- 📙 TOP LANGUAGES & PINNED REPO -->
+<!-- 📙 TOP LANGUAGES -->
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hielo24k&theme=matrix&layout=compact&border_color=00FF66&langs_count=6" alt="Top Languages" />
-  <a href="https://github.com/hielo24k/teemo-bot">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=hielo24k&repo=teemo-bot&theme=matrix&border_color=00FF66" alt="Teemo Bot" />
-  </a>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hielo24k&layout=compact&bg_color=0d1117&title_color=00FF66&text_color=7ee787&border_color=00FF66&langs_count=6" alt="Top Languages" />
 </p>
+
+<!-- 🍄 DESTACADO: TEEMO BOT SHOWCASE CARD -->
+<div align="center">
+  <table border="0" style="border: 2px solid #00FF66; border-radius: 10px; background-color: #0d1117; max-width: 520px; padding: 12px;">
+    <tr>
+      <td width="90" align="center" style="vertical-align: middle;">
+        <a href="https://github.com/hielo24k/teemo-bot">
+          <img src="https://raw.githubusercontent.com/hielo24k/teemo-bot/main/teemo_avatar.png" width="80" height="80" alt="Teemo Bot Avatar" />
+        </a>
+      </td>
+      <td style="vertical-align: middle; padding-left: 14px; text-align: left;">
+        <a href="https://github.com/hielo24k/teemo-bot" style="text-decoration: none;">
+          <strong style="color: #00FF66; font-size: 17px;">🍄 teemo-bot ☭</strong>
+        </a>
+        <p style="color: #8b949e; font-size: 13px; margin: 4px 0 6px 0;">
+          Bot de Discord marxista-leninista con analogías de LoL, impulsado por Google Gemini y activo 24/7 en la nube.
+        </p>
+        <span style="color: #3572A5; font-size: 12px;">● Python</span> &nbsp;
+        <span style="color: #00FF66; font-size: 12px;">★ Featured Project</span>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
 
 <!-- 🏆 GITHUB TROPHIES -->
 <div align="center">
